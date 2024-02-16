@@ -1,6 +1,19 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# landing page
 
-redo some repos plus new maybe
+- 👀 [DEMO LINK]()
+
+- Implemented landing page according to [Figma design]()
+
+## 🛠List of technologies:
+- HTML
+- SCSS
+- BEM
+- Javascript
+
+### 🖥The page is adapted to the following screens:
+- Large screens 2560px
+- The design 1600px
+- Desktop 1280px
+- Small desktop 1024px
+- Tablet 640px
+- Mobile (> 320px)
